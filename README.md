@@ -1,7 +1,7 @@
 
 # disguised-remuneration
 
-A microservice for Disguised Remuneration.
+A backend microservice for Disguised Remuneration.
 
 ### License
 
